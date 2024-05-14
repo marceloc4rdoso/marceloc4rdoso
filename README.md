@@ -31,5 +31,5 @@
 
 <div>
 <a href="https://github.com/marceloc4rdoso">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&langs_count=10&theme=dracula"/>
 </div>
