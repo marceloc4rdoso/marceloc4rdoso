@@ -30,6 +30,7 @@
 ## Stats
   
 <a href="https://github.com/marceloc4rdoso">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&langs_count=7&theme=dark"/>username=marceloc4rdoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?
 </div>
 
