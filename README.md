@@ -2,7 +2,7 @@
 ## My name is Marcelo Cardoso, but you can simply call me "Marcelo"!
 
 - 🔭 I am currently working as a freelance developer under the business name Capybird Maker Labs
-- 🌱 I am currently delving deeper into Java seeking an advanced level and Python with a focus on data.
+- 🌱 I am currently delving deeper into Java seeking an advanced level in Python with a focus on data.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -10,14 +10,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Tools and Technologies
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  width="40" height="40"/>
-
 ## I'm learning and improving
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40"/>
+
+## Tools and Technologies
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"  width="40" height="40"/>
 
 ## Contacts:
 
@@ -31,5 +31,5 @@
 
 <div>
 <a href="https://github.com/marceloc4rdoso">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&langs_count=10&theme=dracula"/>
+<img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&langs_count=10&theme=dracula"/>
 </div>
