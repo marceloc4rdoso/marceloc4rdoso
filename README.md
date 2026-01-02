@@ -43,4 +43,4 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&theme=monokai)](https://github.com/marceloc4rdoso/github-readme-stats)
