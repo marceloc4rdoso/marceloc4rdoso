@@ -43,9 +43,4 @@
 
 ## Stats
 
-<p align="center">
-  <a href="https://github.com/marceloc4rdoso">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-    <img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloc4rdoso&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
