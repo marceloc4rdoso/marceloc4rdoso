@@ -45,4 +45,4 @@
 
 ## Technologies Used
 
-[![marceloc4rsoso](https://github-readme-stats.vercel.app/api/langs/?username=iuricode&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![marceloc4rsoso](https://github-readme-stats.vercel.app/api/all-langs/?username=iuricode&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
