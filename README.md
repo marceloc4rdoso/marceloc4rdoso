@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![card](https://github-readme-stats.vercel.app/api?username=marceloc4rdoso&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=marceloc4rdoso&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm learning and improving
 
@@ -45,4 +45,4 @@
 
 ## Technologies Used
 
-[![marceloc4rsoso](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![marceloc4rsoso](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
