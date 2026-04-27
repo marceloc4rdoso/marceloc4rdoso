@@ -41,8 +41,6 @@
 <a href = "mailto:m.card.marcelo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 </p>
 
-## Atividade Anual de Contribuições
+## Technologies Used
 
-<a href="https://skyline.github.com/marceloc4rdoso/2025">
-  <img src="https://skyline.github.com/marceloc4rdoso/2025.png" alt="GitHub Skyline" />
-</a>
+[![marceloc4rsoso](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
