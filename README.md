@@ -10,6 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![card](https://github-readme-stats.vercel.app/api?username=marceloc4rdoso&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## I'm learning and improving
 
 <p align="center">
