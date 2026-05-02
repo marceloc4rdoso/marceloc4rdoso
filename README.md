@@ -83,7 +83,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/marceloc4rdoso/marceloc4rdoso/output/snake.svg" alt="Snake animation" />
-
-###
